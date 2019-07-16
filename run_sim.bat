@@ -1,0 +1,1 @@
+python eda_build_scripts/sim.py "\\sim\\script"
